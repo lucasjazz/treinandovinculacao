@@ -15,5 +15,6 @@
 
 // git pull para deixar ambos os arquivos atualizados (local/remoto)
 
-// git push para atualizar o servidor remoto
+// git push para transferir as mudanças o github
+
 
